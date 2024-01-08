@@ -4,7 +4,7 @@
 
 
 
-Download and replace a empty dataset folder.
+Download and replace the empty dataset folder.
 You can access dataset in https://drive.google.com/file/d/1-ACwZnlhWbhfT_6BXQWiD0DthZOh7w1L/view?usp=drive_link
 
 
