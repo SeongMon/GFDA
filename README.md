@@ -1,6 +1,6 @@
 # GFDA: Unsupervised Domain Adaptation using Advanced Fourier Style Transfer via Multivariate Gaussian Mask (IPIU2024) 
 ***
-![그림1](https://github.com/SeongMon/GFDA/assets/118545892/47082b83-701f-4680-89a5-441ddc7099fd)
+<img width="1100" alt="스크린샷 2024-01-11 오후 5 38 35" src="https://github.com/SeongMon/GFDA/assets/118545892/b8ea5956-b075-4c27-adf9-108a5458a7c8">
 
 
 
