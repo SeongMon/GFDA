@@ -1,6 +1,6 @@
-# GFDA: Unsupervised Domain Adaptation using Advanced Fourier Style Transfer via Multivariate Gaussian Mask (IPIU2024) 
+# GFDA: Unsupervised Domain Adaptation using Advanced Fourier Style Transfer via Multivariate Gaussian Mask (IPIU2024 우수논문상 수상) 
 ***
-![2024 IPIU 우수논문상](https://github.com/SeongMon/GFDA/assets/118545892/b863d198-da92-431e-9336-cebabe650f7d)
+
 ***
 <img width="1100" alt="스크린샷 2024-01-11 오후 5 38 35" src="https://github.com/SeongMon/GFDA/assets/118545892/b8ea5956-b075-4c27-adf9-108a5458a7c8">
 
